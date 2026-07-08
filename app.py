@@ -7,7 +7,7 @@ import requests
 # 1. CONFIGURAÇÕES DO SUPABASE (A PONTE)
 # ==========================================
 # Substitua com os dados exatos da tela do Supabase que você me enviou:
-SUPABASE_URL = "https://supabase.com/dashboard/project/egymsmfiadgnfjllrsha/database/schemas" # Ex: https://xyz123.supabase.co
+SUPABASE_URL = "https://egymsmfiadgnfjllrsha.supabase.co" # Ex: https://xyz123.supabase.co
 SUPABASE_KEY = "sb_publishable_woAi3LU260U19LWruaAopQ_zkWXJCpb"
 
 st.set_page_config(page_title="Guard IoT", page_icon="🚨", layout="wide")
